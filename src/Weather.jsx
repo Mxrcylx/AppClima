@@ -159,7 +159,7 @@ const Weather = () => {
             <GridItem>
               <Box mb={4}>
                 <Heading size="md" mb={2}>
-                  Temperatura Atual em {currentWeather.name}
+                  Clima Atual em {currentWeather.name}
                 </Heading>
                 
                 {/* Distribuição de Temperatura e Sensação Térmica */}
